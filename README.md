@@ -1,4 +1,4 @@
-2### Hi there 👋
+### Hi there 👋
 
 <!--
 **Nacho1311/Nacho1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
