@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Ignacio Rebollo Chacón
+Soy estudiante de Desarrollo de Aplicaciones Web
